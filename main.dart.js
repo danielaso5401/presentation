@@ -45515,7 +45515,7 @@ return A.a0y(this.r,s.b.al(0,r.gu(r)),B.dD)}}
 A.uO.prototype={
 K(a,b){return this.e.$2(b,this.f)}}
 A.xN.prototype={
-K(a,b){return new A.pk(new A.px("Flutter Demo Home Page",null),"Flutter Demo",A.a2j(null,B.p6),null)}}
+K(a,b){return new A.pk(new A.px("App web flutter",null),"Flutter Demo",A.a2j(null,B.p6),null)}}
 A.px.prototype={
 aD(){return new A.th(B.n)}}
 A.th.prototype={
